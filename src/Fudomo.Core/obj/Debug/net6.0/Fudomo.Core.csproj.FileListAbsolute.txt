@@ -1,0 +1,12 @@
+C:\projects\Fudomo\src\Fudomo.Core\bin\Debug\net6.0\Fudomo.Core.deps.json
+C:\projects\Fudomo\src\Fudomo.Core\bin\Debug\net6.0\Fudomo.Core.dll
+C:\projects\Fudomo\src\Fudomo.Core\bin\Debug\net6.0\Fudomo.Core.pdb
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\Fudomo.Core.csproj.AssemblyReference.cache
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\Fudomo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\Fudomo.Core.AssemblyInfoInputs.cache
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\Fudomo.Core.AssemblyInfo.cs
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\Fudomo.Core.csproj.CoreCompileInputs.cache
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\Fudomo.Core.dll
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\refint\Fudomo.Core.dll
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\Fudomo.Core.pdb
+C:\projects\Fudomo\src\Fudomo.Core\obj\Debug\net6.0\ref\Fudomo.Core.dll
